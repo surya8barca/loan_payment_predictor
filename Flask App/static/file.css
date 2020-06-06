@@ -1,0 +1,70 @@
+input[type=radio]
+    {
+        width: 40px;
+        height: 30px;
+    }
+    #models label
+    {
+        font-size: 50px;
+        color: yellow;
+    }
+    input[type=number]
+    {
+        width: 30%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: flex;
+        border: 2px solid blue;
+        border-radius: 15px;
+    }
+    input[type=submit] {
+        width: 15%;
+        background-color: #4CAF50;
+        color: white;   
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+    h3{
+        color:black;
+    }
+
+    #headings {
+        font-size: 35px;
+        font-family: cursive;
+        color:darkblue;
+    }
+
+
+
+    #form h1{
+        font-size: 50px;
+        color: red;
+    }
+
+    #models h1{
+        font-size: 60px;
+        color: black;
+    }
+
+    body {
+        background-image: url('/static/loan.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    fieldset {
+        width: 98%;
+        padding: 10px;
+        border: none;
+    }
+    label{
+        font-size: 30px;
+        color: darkblue;
+    }
