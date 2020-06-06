@@ -3,14 +3,20 @@ input[type=radio]
         width: 40px;
         height: 30px;
     }
+
+    #purpose{
+        width: 40px;
+        height: 20px;
+    }
     #models label
     {
         font-size: 50px;
-        color: yellow;
+        color: black;
+        font-weight: bold;
     }
     input[type=number]
     {
-        width: 30%;
+        width: 70%;
         padding: 12px 20px;
         margin: 8px 0;
         display: flex;
@@ -29,7 +35,7 @@ input[type=radio]
     }
 
     input[type=submit]:hover {
-        background-color: #45a049;
+        background-color: blue;
     }
     h3{
         color:black;
@@ -38,19 +44,19 @@ input[type=radio]
     #headings {
         font-size: 35px;
         font-family: cursive;
-        color:darkblue;
+        color:black;
     }
 
 
 
     #form h1{
         font-size: 50px;
-        color: red;
+        color: white;
     }
 
     #models h1{
         font-size: 60px;
-        color: black;
+        color: yellow;
     }
 
     body {
@@ -65,6 +71,11 @@ input[type=radio]
         border: none;
     }
     label{
-        font-size: 30px;
-        color: darkblue;
+        font-size: 25px;
+        color:chartreuse;
+    }
+
+    h4 {
+        font-size: 25px;
+        color:chartreuse;
     }
