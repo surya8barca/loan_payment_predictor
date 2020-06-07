@@ -1,8 +1,0 @@
-needed = credit.policy', 'int.rate', 'installment', 'log.annual.inc', 'dti',
-       'fico', 'days.with.cr.line', 'revol.bal', 'revol.util',
-       'inq.last.6mths', 'delinq.2yrs', 'pub.rec', 'purpose_credit_card',
-       'purpose_debt_consolidation', 'purpose_educational',
-       'purpose_home_improvement', 'purpose_major_purchase',
-       'purpose_small_business'
-
-
